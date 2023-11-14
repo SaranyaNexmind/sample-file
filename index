@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            color:rgb(3, 3, 3);
+        }
+        p{
+            color:yellowgreen; margin-top: 5%; margin-left: 20%; margin-right: 20%; 
+        }
+    </style>
+</head>
+<body bgcolor="lavender">
+    <h1 align="center" style="border-width: 2px; border-style: solid; border-color:rgb(68, 0, 255); padding: 3pt">SARANYA_MUA</h1>
+    <img src="C:\Users\sajja\OneDrive\Desktop\visual studio test file\download.webp" width="100%" height="500px">
+    <p style="border-width: 3px; border-style: dashed; border-color: rgb(47, 210, 150); padding: 2em;">I'm a certified make-up artist.i will helpto enhance your beauty.</p>
+    <h3><marquee>*Cosmetics </marquee></h3>
+<p>Cosmetics designed to enhance or alter one's appearance (makeup) can be used to conceal blemishes, enhance one's natural features (such as the eyebrows and eyelashes), add color to a person's face, or change the appearance of the face entirely to resemble a different person, creature or object.</p>
+<h1 align="center" style="border-width: 2px; border-style: dashed; border-color:rgb(255, 0, 187); padding: 3pt">make-up</h1>
+</body>
+</html>
